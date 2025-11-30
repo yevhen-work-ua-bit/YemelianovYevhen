@@ -33,21 +33,6 @@ I’m passionate about IoT, embedded systems, sensor networks, automation, and a
 
 ---
 
-## 📂 Current & Future Projects
-
-### **📌 1. Student Attendance Tracking System (RFID + Biometrics + Arduino)**
-A smart access control system integrated with a PC database.
-
-### **📌 2. Automated Attendance Database (Access + PowerShell + Serial Communication)**
-PC ↔ microcontroller integration for real-time logging.
-
-### **📌 3. Small Arduino Projects**
-Sensors, relays, LCD, basic automation modules.
-
-### **📌 4. Physics/Astronomy Mini Projects**
-Data analysis, object motion modeling, light curve processing.
-
----
 
 ## 🎯 Goals on GitHub
 - Build a professional IoT/Embedded engineering portfolio  
@@ -58,8 +43,7 @@ Data analysis, object motion modeling, light curve processing.
 ---
 
 ## 📫 Contact
-- Email: **(your email)**  
-- Telegram: **@your_nickname**  
-- LinkedIn: *(I can help create it)*
+- Email: yevhen.work.ua@gmail.com  
+- Telegram: @workisliveEugene 
 
 Thanks for visiting! 🚀
