@@ -23,7 +23,6 @@ I’m passionate about IoT, embedded systems, sensor networks, automation, and a
 ### **🔹 Electronics**
 - Soldering, testing, prototyping  
 - Basic analog & digital circuits  
-- PCB design (beginner level, KiCad)
 
 ### **🔹 Tools**
 - Git / GitHub  
